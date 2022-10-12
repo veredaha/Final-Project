@@ -28,3 +28,7 @@ Load tests
 Accessibility tests
 Performance tests
 Usability tests
+
+Selenium allure report:
+<img width="427" alt="image" src="https://user-images.githubusercontent.com/97604250/195435843-ff1160ac-3274-43ac-98b6-b4b0bebfc86f.png">
+
